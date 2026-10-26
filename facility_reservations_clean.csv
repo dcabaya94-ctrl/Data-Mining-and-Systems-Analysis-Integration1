@@ -1,0 +1,421 @@
+Reservation_ID,Facility_Type,User_Category,Booking_Date,Reservation_Date,Day_of_Week,Time_Slot,Duration_Hours,Participants,Equipment_Requested,Usage_Status,Actual_Attendance,Cancellation_Days_Before,Lead_Time_Days,Lead_Time_Category,Reservation_Outcome,Attendance_Ratio
+R0128,Conference Room,Student Organization,2025-08-26,2025-08-28,Thursday,Afternoon,3.0,21.0,No,Cancelled,,1.0,2.0,Last Minute,Not Completed,
+R0028,Gymnasium,Student Organization,2025-08-31,2025-09-01,Monday,Unknown,1.0,37.0,Yes,No-Show,0.0,,1.0,Last Minute,Not Completed,0.0
+R0226,Computer Lab,Faculty,2025-11-14,2025-11-11,Tuesday,Afternoon,2.0,22.0,Yes,No-Show,0.0,,,,Not Completed,0.0
+R0155,Gymnasium,Student Organization,2025-11-16,2025-11-17,Monday,Morning,3.0,61.0,No,Used,49.0,,1.0,Last Minute,Completed,0.803
+R0143,Classroom,Student Organization,2025-10-28,2025-11-07,Friday,Afternoon,3.0,57.0,No,Used,35.0,,10.0,Medium Lead,Completed,0.614
+R0088,Gymnasium,Student Organization,2025-09-24,2025-10-01,Wednesday,Afternoon,5.0,66.0,Yes,Cancelled,,0.0,7.0,Short Lead,Not Completed,
+R0115,Computer Lab,Administrative Staff,2025-11-06,2025-11-09,Sunday,Morning,6.0,31.0,No,Used,27.0,,3.0,Short Lead,Completed,0.871
+R0238,Gymnasium,Individual Student,2025-09-08,2025-09-08,Monday,Afternoon,4.0,45.0,No,Used,44.0,,0.0,Last Minute,Completed,0.978
+R0154,Classroom,Faculty,2025-11-08,2025-11-19,Wednesday,Afternoon,1.0,51.0,No,Cancelled,,1.0,11.0,Medium Lead,Not Completed,
+R0124,Computer Lab,Student Organization,2025-11-14,2025-11-16,Sunday,Afternoon,2.0,33.0,Yes,Cancelled,,0.0,2.0,Last Minute,Not Completed,
+R0147,Classroom,Individual Student,2025-08-02,2025-08-03,Sunday,Morning,2.0,22.0,Yes,Used,20.0,,1.0,Last Minute,Completed,0.909
+R0292,Computer Lab,Individual Student,2025-10-21,2025-11-06,Thursday,Afternoon,2.0,29.0,No,Cancelled,,5.0,16.0,Early Booking,Not Completed,
+R0343,Classroom,Faculty,2025-11-20,2025-11-23,Sunday,Afternoon,2.0,18.0,Yes,Used,16.0,,3.0,Short Lead,Completed,0.889
+R0320,Classroom,Student Organization,2025-11-20,2025-11-23,Sunday,Morning,4.0,30.0,Yes,Cancelled,,3.0,3.0,Short Lead,Not Completed,
+R0240,Computer Lab,Individual Student,2025-11-08,2025-11-08,Saturday,Morning,1.0,36.0,Yes,Used,30.0,,0.0,Last Minute,Completed,0.833
+R0211,Classroom,Student Organization,2025-10-25,2025-10-25,Saturday,Morning,2.0,17.0,No,Used,13.0,,0.0,Last Minute,Completed,0.765
+R0270,Auditorium,Individual Student,2025-08-18,2025-08-20,Wednesday,Afternoon,4.0,151.0,No,Used,135.0,,2.0,Last Minute,Completed,0.894
+R0017,Computer Lab,Administrative Staff,2025-09-08,2025-09-27,Saturday,Morning,2.0,23.0,No,Used,17.0,,19.0,Early Booking,Completed,0.739
+R0386,Computer Lab,Faculty,2025-10-05,2025-10-16,Thursday,Afternoon,3.0,,No,Cancelled,,11.0,11.0,Medium Lead,Not Completed,
+R0062,Computer Lab,Faculty,2025-08-28,2025-09-22,Monday,Unknown,5.0,19.0,No,Used,11.0,,25.0,Early Booking,Completed,0.579
+R0162,Computer Lab,Student Organization,2025-09-02,2025-09-02,Tuesday,Afternoon,3.0,20.0,Yes,Used,15.0,,0.0,Last Minute,Completed,0.75
+R0015,Auditorium,Student Organization,2025-11-10,2025-11-13,Thursday,Afternoon,3.0,231.0,No,Cancelled,,1.0,3.0,Short Lead,Not Completed,
+R0269,Study Room,Faculty,,2025-10-20,Monday,Morning,2.0,7.0,No,Used,5.0,,,,Completed,0.714
+R0016,Conference Room,Student Organization,2025-11-08,2025-11-18,Tuesday,Afternoon,3.0,21.0,Yes,Cancelled,,9.0,10.0,Medium Lead,Not Completed,
+R0041,Conference Room,Individual Student,2025-09-21,2025-09-24,Wednesday,Morning,1.0,6.0,No,Used,4.0,,3.0,Short Lead,Completed,0.667
+R0297,Classroom,Administrative Staff,2025-09-26,2025-10-05,Sunday,Afternoon,3.0,15.0,Yes,No-Show,0.0,,9.0,Medium Lead,Not Completed,0.0
+R0082,Gymnasium,Student Organization,2025-08-10,2025-08-17,Sunday,Afternoon,3.0,107.0,No,Used,99.0,,7.0,Short Lead,Completed,0.925
+R0246,Classroom,Student Organization,2025-08-24,2025-09-07,Sunday,Morning,2.0,59.0,No,Used,39.0,,14.0,Medium Lead,Completed,0.661
+R0405,Classroom,Student Organization,2025-08-02,2025-09-13,Saturday,Evening,2.0,26.0,Yes,Used,21.0,,42.0,Early Booking,Completed,0.808
+R0198,Classroom,Administrative Staff,2025-10-23,2025-10-25,Saturday,Afternoon,4.0,42.0,No,Used,38.0,,2.0,Last Minute,Completed,0.905
+R0256,Conference Room,Student Organization,2025-08-14,2025-08-20,Wednesday,Morning,5.0,15.0,Yes,Used,16.0,,6.0,Short Lead,Completed,1.067
+R0081,Computer Lab,Individual Student,2025-10-17,2025-10-21,Tuesday,Evening,3.0,25.0,Yes,Cancelled,,2.0,4.0,Short Lead,Not Completed,
+R0131,Study Room,Individual Student,2025-11-15,2025-11-18,Tuesday,Morning,5.0,7.0,Yes,Used,5.0,,3.0,Short Lead,Completed,0.714
+R0104,Computer Lab,Faculty,2025-08-07,2025-08-09,Saturday,Morning,2.0,21.0,No,Used,15.0,,2.0,Last Minute,Completed,0.714
+R0108,Conference Room,Individual Student,2025-10-21,2025-10-21,Tuesday,Afternoon,2.0,20.0,Yes,Used,14.0,,0.0,Last Minute,Completed,0.7
+R0315,Conference Room,Student Organization,2025-11-13,2025-11-23,Sunday,Afternoon,4.0,22.0,Yes,No-Show,0.0,,10.0,Medium Lead,Not Completed,0.0
+R0291,Computer Lab,Student Organization,,2025-11-13,Thursday,Afternoon,3.0,36.0,No,No-Show,0.0,,,,Not Completed,0.0
+R0202,Gymnasium,Individual Student,2025-10-30,2025-11-12,Wednesday,Evening,3.0,36.0,Yes,Cancelled,,13.0,13.0,Medium Lead,Not Completed,
+R0138,Conference Room,Student Organization,2025-10-15,2025-10-20,Monday,Morning,4.0,,Yes,Used,24.0,,5.0,Short Lead,Completed,
+R0189,Gymnasium,Faculty,2025-11-09,2025-12-21,Sunday,Afternoon,6.0,83.0,No,Used,,,42.0,Early Booking,Completed,
+R0102,Classroom,Individual Student,2025-08-06,2025-09-16,Tuesday,Afternoon,1.0,21.0,Yes,Cancelled,,28.0,41.0,Early Booking,Not Completed,
+R0242,Study Room,Administrative Staff,2025-10-03,2025-10-08,Wednesday,Afternoon,6.0,6.0,Yes,No-Show,0.0,,5.0,Short Lead,Not Completed,0.0
+R0264,Conference Room,Faculty,2025-08-12,2025-09-16,Tuesday,Morning,2.0,18.0,No,Used,12.0,,35.0,Early Booking,Completed,0.667
+R0129,Auditorium,Faculty,2025-08-03,2025-09-12,Friday,Morning,3.0,290.0,Yes,No-Show,0.0,,40.0,Early Booking,Not Completed,0.0
+R0362,Classroom,Administrative Staff,2025-08-11,2025-08-14,Thursday,Afternoon,2.0,26.0,No,Used,,,3.0,Short Lead,Completed,
+R0357,Computer Lab,Administrative Staff,2025-10-01,2025-10-08,Wednesday,Morning,3.0,30.0,No,Used,31.0,,7.0,Short Lead,Completed,1.033
+R0057,Gymnasium,Individual Student,2025-10-01,2025-10-24,Friday,Morning,1.0,76.0,No,Cancelled,,9.0,23.0,Early Booking,Not Completed,
+R0282,Classroom,Student Organization,2025-11-22,2025-11-24,Monday,Morning,4.0,46.0,No,Cancelled,,1.0,2.0,Last Minute,Not Completed,
+R0165,Computer Lab,Faculty,2025-09-30,2025-10-11,Saturday,Evening,,39.0,No,Cancelled,,6.0,11.0,Medium Lead,Not Completed,
+R0074,Study Room,Administrative Staff,2025-11-04,2025-11-08,Saturday,Evening,2.0,6.0,Yes,Used,6.0,,4.0,Short Lead,Completed,1.0
+R0145,Study Room,Faculty,2025-11-02,2025-11-05,Wednesday,Morning,1.0,2.0,Yes,Used,2.0,,3.0,Short Lead,Completed,1.0
+R0341,Study Room,Individual Student,2025-10-07,2025-10-07,Tuesday,Afternoon,3.0,3.0,Yes,Used,2.0,,0.0,Last Minute,Completed,0.667
+R0067,Classroom,Student Organization,2025-09-17,2025-09-17,Wednesday,Morning,2.0,34.0,No,Cancelled,,0.0,0.0,Last Minute,Not Completed,
+R0280,Computer Lab,Administrative Staff,2025-10-28,2025-11-10,Monday,Morning,1.0,25.0,Yes,Used,21.0,,13.0,Medium Lead,Completed,0.84
+R0308,Computer Lab,Administrative Staff,2025-09-08,2025-09-13,Saturday,Afternoon,4.0,19.0,Yes,Cancelled,,2.0,5.0,Short Lead,Not Completed,
+R0272,Study Room,Faculty,2025-10-27,2025-12-03,Wednesday,Morning,2.0,6.0,No,Used,5.0,,37.0,Early Booking,Completed,0.833
+R0279,Computer Lab,Administrative Staff,2025-09-17,2025-09-24,Wednesday,Afternoon,2.0,22.0,Yes,Used,22.0,,7.0,Short Lead,Completed,1.0
+R0068,Computer Lab,Faculty,2025-11-08,2025-11-29,Saturday,Afternoon,3.0,17.0,No,,14.0,,21.0,Early Booking,,0.824
+R0117,Classroom,Faculty,2025-11-14,2025-11-25,Tuesday,Afternoon,2.0,39.0,No,Used,34.0,,11.0,Medium Lead,Completed,0.872
+R0210,Study Room,Faculty,2025-10-26,2025-11-29,Saturday,Afternoon,1.0,2.0,No,Used,1.0,,34.0,Early Booking,Completed,0.5
+R0392,Computer Lab,Individual Student,2025-10-15,2025-11-27,Thursday,Morning,,15.0,No,Used,11.0,,43.0,Early Booking,Completed,0.733
+R0267,Auditorium,Individual Student,2025-11-28,2025-12-01,Monday,Morning,6.0,168.0,No,Cancelled,,0.0,3.0,Short Lead,Not Completed,
+R0060,Conference Room,Individual Student,2025-11-04,2025-11-13,Thursday,Morning,3.0,22.0,Yes,No-Show,0.0,,9.0,Medium Lead,Not Completed,0.0
+R0403,Computer Lab,Student Organization,2025-09-24,2025-11-03,Monday,Evening,3.0,24.0,No,Used,26.0,,40.0,Early Booking,Completed,1.083
+R0359,Computer Lab,Administrative Staff,2025-10-20,2025-10-22,Wednesday,Morning,1.0,18.0,Yes,Cancelled,,2.0,2.0,Last Minute,Not Completed,
+R0125,Computer Lab,Administrative Staff,2025-08-05,2025-09-14,Sunday,Afternoon,2.0,29.0,No,Cancelled,,4.0,40.0,Early Booking,Not Completed,
+R0397,Computer Lab,Administrative Staff,2025-09-04,2025-09-09,Tuesday,Evening,3.0,38.0,Yes,Used,36.0,,5.0,Short Lead,Completed,0.947
+R0330,Conference Room,Individual Student,2025-08-24,2025-09-04,Thursday,Evening,1.0,19.0,No,Cancelled,,7.0,11.0,Medium Lead,Not Completed,
+R0106,Classroom,Administrative Staff,2025-11-13,2025-11-14,Friday,Afternoon,4.0,25.0,Yes,Used,20.0,,1.0,Last Minute,Completed,0.8
+R0212,Gymnasium,Faculty,2025-09-06,2025-09-13,Saturday,Afternoon,3.0,99.0,No,Cancelled,,5.0,7.0,Short Lead,Not Completed,
+R0025,Computer Lab,Student Organization,2025-11-18,2025-11-26,Wednesday,Evening,1.0,39.0,Yes,Cancelled,,3.0,8.0,Medium Lead,Not Completed,
+R0289,Auditorium,Faculty,,2025-11-22,Saturday,Morning,2.0,228.0,No,Used,235.0,,,,Completed,1.031
+R0032,Study Room,Student Organization,2025-08-29,2025-09-10,Wednesday,Afternoon,3.0,3.0,No,Cancelled,,7.0,12.0,Medium Lead,Not Completed,
+R0089,Gymnasium,Faculty,2025-08-13,2025-08-25,Monday,Evening,3.0,47.0,Yes,Used,49.0,,12.0,Medium Lead,Completed,1.043
+R0230,Study Room,Student Organization,2025-11-21,2025-12-01,Monday,Evening,6.0,7.0,No,Cancelled,,4.0,10.0,Medium Lead,Not Completed,
+R0303,Classroom,Individual Student,2025-11-18,2025-12-07,Sunday,Evening,6.0,48.0,Yes,Cancelled,,5.0,19.0,Early Booking,Not Completed,
+R0299,Auditorium,Administrative Staff,2025-10-08,2025-10-20,Monday,Afternoon,2.0,249.0,No,No-Show,0.0,,12.0,Medium Lead,Not Completed,0.0
+R0084,Classroom,Student Organization,2025-11-21,2026-01-04,Sunday,Morning,3.0,48.0,Yes,No-Show,0.0,,44.0,Early Booking,Not Completed,0.0
+R0038,Computer Lab,Administrative Staff,2025-10-07,2025-10-15,Wednesday,Morning,1.0,15.0,Yes,Used,9.0,,8.0,Medium Lead,Completed,0.6
+R0388,Study Room,Individual Student,2025-08-02,2025-08-02,Saturday,Afternoon,6.0,6.0,No,Used,4.0,,0.0,Last Minute,Completed,0.667
+R0390,Classroom,Individual Student,2025-09-09,2025-09-09,Tuesday,Morning,5.0,35.0,Yes,Used,29.0,,0.0,Last Minute,Completed,0.829
+R0285,Study Room,Student Organization,2025-10-21,2025-10-27,Monday,Afternoon,2.0,4.0,No,Used,4.0,,6.0,Short Lead,Completed,1.0
+R0228,Study Room,Faculty,2025-11-14,2025-11-15,Saturday,Evening,2.0,7.0,Yes,Cancelled,,0.0,1.0,Last Minute,Not Completed,
+R0417,Conference Room,Individual Student,2025-09-01,2025-09-07,Sunday,Afternoon,3.0,16.0,No,Used,17.0,,6.0,Short Lead,Completed,1.062
+R0112,Computer Lab,Individual Student,2025-10-21,2025-10-23,Thursday,Morning,6.0,,No,Used,,,2.0,Last Minute,Completed,
+R0180,Computer Lab,Student Organization,2025-08-16,2025-09-09,Tuesday,Morning,2.0,38.0,Yes,Cancelled,,22.0,24.0,Early Booking,Not Completed,
+R0293,Study Room,Student Organization,2025-10-23,2025-11-06,Thursday,Afternoon,2.0,6.0,Yes,Cancelled,,7.0,14.0,Medium Lead,Not Completed,
+R0381,Classroom,Administrative Staff,2025-09-02,2025-09-05,Friday,Morning,3.0,38.0,No,Used,21.0,,3.0,Short Lead,Completed,0.553
+R0245,Classroom,Individual Student,2025-10-19,2025-10-20,Monday,Afternoon,5.0,25.0,No,Used,20.0,,1.0,Last Minute,Completed,0.8
+R0103,Gymnasium,Individual Student,2025-09-26,2025-10-04,Saturday,Afternoon,3.0,70.0,No,Cancelled,,8.0,8.0,Medium Lead,Not Completed,
+R0383,Auditorium,Administrative Staff,2025-10-12,2025-10-20,Monday,Morning,1.0,139.0,No,Used,113.0,,8.0,Medium Lead,Completed,0.813
+R0413,Study Room,Faculty,2025-08-07,2025-09-01,Monday,Evening,3.0,6.0,No,Cancelled,,17.0,25.0,Early Booking,Not Completed,
+R0113,Gymnasium,Student Organization,2025-11-25,2025-11-30,Sunday,Afternoon,,43.0,No,No-Show,0.0,,5.0,Short Lead,Not Completed,0.0
+R0398,Conference Room,Individual Student,2025-09-11,2025-09-12,Friday,Afternoon,2.0,15.0,No,Used,16.0,,1.0,Last Minute,Completed,1.067
+R0396,Gymnasium,Student Organization,2025-08-26,2025-09-02,Tuesday,Morning,4.0,110.0,No,Used,84.0,,7.0,Short Lead,Completed,0.764
+R0176,Classroom,Student Organization,2025-08-30,2025-09-08,Monday,Morning,2.0,15.0,Yes,Used,13.0,,9.0,Medium Lead,Completed,0.867
+R0056,Gymnasium,Individual Student,2025-09-16,2025-10-09,Thursday,Evening,3.0,45.0,Yes,Used,49.0,,23.0,Early Booking,Completed,1.089
+R0158,Computer Lab,Student Organization,2025-08-22,2025-08-25,Monday,Morning,3.0,19.0,No,Used,13.0,,3.0,Short Lead,Completed,0.684
+R0137,Conference Room,Faculty,2025-11-10,2025-11-02,Sunday,Afternoon,1.0,9.0,No,Used,7.0,,,,Completed,0.778
+R0186,Gymnasium,Faculty,2025-08-11,2025-08-12,Tuesday,Evening,3.0,41.0,No,Used,39.0,,1.0,Last Minute,Completed,0.951
+R0304,Auditorium,Individual Student,2025-11-26,2025-11-28,Friday,Morning,2.0,242.0,Yes,Used,,,2.0,Last Minute,Completed,
+R0382,Auditorium,Administrative Staff,2025-10-05,2025-11-02,Sunday,Morning,6.0,297.0,No,Cancelled,,8.0,28.0,Early Booking,Not Completed,
+R0135,Classroom,Faculty,2025-09-10,2025-09-20,Saturday,Morning,3.0,19.0,No,Used,12.0,,10.0,Medium Lead,Completed,0.632
+R0356,Gymnasium,Faculty,2025-10-14,2025-10-31,Friday,Morning,2.0,100.0,No,Cancelled,,12.0,17.0,Early Booking,Not Completed,
+R0231,Classroom,Individual Student,2025-08-04,2025-08-05,Tuesday,Evening,2.0,31.0,No,Used,31.0,,1.0,Last Minute,Completed,1.0
+R0237,Computer Lab,Individual Student,2025-10-17,2025-10-23,Thursday,Morning,1.0,,No,Used,21.0,,6.0,Short Lead,Completed,
+R0255,Gymnasium,Faculty,2025-10-15,2025-10-16,Thursday,Morning,4.0,97.0,No,Cancelled,,0.0,1.0,Last Minute,Not Completed,
+R0366,Computer Lab,Administrative Staff,2025-10-23,2025-10-31,Friday,Evening,2.0,26.0,No,Cancelled,,7.0,8.0,Medium Lead,Not Completed,
+R0195,Gymnasium,Individual Student,2025-08-01,2025-08-16,Saturday,Afternoon,3.0,98.0,Yes,Cancelled,,5.0,15.0,Early Booking,Not Completed,
+R0288,Study Room,Faculty,2025-11-25,2025-12-12,Friday,Afternoon,5.0,4.0,No,Cancelled,,0.0,17.0,Early Booking,Not Completed,
+R0190,Computer Lab,Faculty,2025-08-22,2025-08-31,Sunday,Afternoon,2.0,29.0,No,Used,20.0,,9.0,Medium Lead,Completed,0.69
+R0127,Gymnasium,Student Organization,2025-11-23,2025-11-30,Sunday,Evening,2.0,57.0,Yes,Used,46.0,,7.0,Short Lead,Completed,0.807
+R0160,Conference Room,Administrative Staff,2025-08-28,2025-09-01,Monday,Afternoon,4.0,14.0,Yes,Used,14.0,,4.0,Short Lead,Completed,1.0
+R0260,Gymnasium,Student Organization,2025-09-26,2025-09-27,Saturday,Evening,2.0,36.0,Yes,Cancelled,,1.0,1.0,Last Minute,Not Completed,
+R0083,Auditorium,Individual Student,2025-11-22,2025-12-24,Wednesday,Evening,1.0,82.0,Yes,Used,62.0,,32.0,Early Booking,Completed,0.756
+R0140,Gymnasium,Faculty,2025-08-04,2025-08-13,Wednesday,Morning,2.0,26.0,Yes,Cancelled,,3.0,9.0,Medium Lead,Not Completed,
+R0054,Auditorium,Individual Student,2025-08-05,2025-09-11,Thursday,Evening,4.0,212.0,No,No-Show,0.0,,37.0,Early Booking,Not Completed,0.0
+R0187,Conference Room,Individual Student,2025-08-01,2025-08-09,Saturday,Morning,2.0,20.0,No,Cancelled,,3.0,8.0,Medium Lead,Not Completed,
+R0085,Classroom,Student Organization,2025-09-04,2025-09-18,Thursday,Afternoon,5.0,37.0,Yes,Used,31.0,,14.0,Medium Lead,Completed,0.838
+R0391,Conference Room,Student Organization,2025-08-30,2025-09-07,Sunday,Evening,1.0,15.0,Yes,Used,14.0,,8.0,Medium Lead,Completed,0.933
+R0378,Computer Lab,Administrative Staff,2025-09-05,2025-09-12,Friday,Evening,2.0,24.0,No,Used,17.0,,7.0,Short Lead,Completed,0.708
+R0052,Computer Lab,Administrative Staff,2025-09-28,2025-10-09,Thursday,Afternoon,1.0,22.0,No,Used,13.0,,11.0,Medium Lead,Completed,0.591
+R0099,Classroom,Faculty,2025-11-18,2025-11-24,Monday,Evening,2.0,32.0,Yes,Used,29.0,,6.0,Short Lead,Completed,0.906
+R0011,Study Room,Faculty,2025-08-29,2025-09-12,Friday,Afternoon,3.0,2.0,No,Used,1.0,,14.0,Medium Lead,Completed,0.5
+R0156,Classroom,Student Organization,2025-11-20,2025-12-01,Monday,Morning,3.0,35.0,Yes,Used,37.0,,11.0,Medium Lead,Completed,1.057
+R0374,Auditorium,Student Organization,2025-08-15,2025-08-17,Sunday,Evening,5.0,266.0,Yes,Cancelled,,1.0,2.0,Last Minute,Not Completed,
+R0075,Study Room,Individual Student,2025-10-20,2025-10-27,Monday,Morning,1.0,2.0,Yes,Used,2.0,,7.0,Short Lead,Completed,1.0
+R0232,Classroom,Individual Student,2025-08-13,2025-09-22,Monday,Afternoon,2.0,50.0,Yes,Cancelled,,13.0,40.0,Early Booking,Not Completed,
+R0372,Classroom,Faculty,2025-09-05,2025-10-09,Thursday,Morning,1.0,52.0,No,Used,49.0,,34.0,Early Booking,Completed,0.942
+R0274,Conference Room,Faculty,2025-09-19,2025-09-28,Sunday,Afternoon,1.0,10.0,Yes,Used,10.0,,9.0,Medium Lead,Completed,1.0
+R0024,Classroom,Faculty,2025-08-01,2025-08-09,Saturday,Evening,5.0,33.0,Yes,Used,27.0,,8.0,Medium Lead,Completed,0.818
+R0194,Gymnasium,Administrative Staff,2025-09-11,2025-09-21,Sunday,Morning,1.0,81.0,No,Used,85.0,,10.0,Medium Lead,Completed,1.049
+R0234,Gymnasium,Faculty,2025-10-16,2025-11-19,Wednesday,Evening,4.0,109.0,No,No-Show,0.0,,34.0,Early Booking,Not Completed,0.0
+R0393,Gymnasium,Individual Student,2025-10-13,2025-10-14,Tuesday,Morning,4.0,29.0,No,Used,20.0,,1.0,Last Minute,Completed,0.69
+R0051,Gymnasium,Faculty,2025-10-13,2025-10-18,Saturday,Morning,2.0,96.0,No,Cancelled,,5.0,5.0,Short Lead,Not Completed,
+R0039,Study Room,Student Organization,2025-08-17,2025-08-17,Sunday,Morning,3.0,5.0,Yes,Used,4.0,,0.0,Last Minute,Completed,0.8
+R0219,Gymnasium,Student Organization,2025-11-02,2025-10-31,Friday,Unknown,5.0,108.0,No,Used,69.0,,,,Completed,0.639
+R0006,Conference Room,Student Organization,2025-08-26,2025-09-18,Thursday,Evening,4.0,24.0,Yes,Used,15.0,,23.0,Early Booking,Completed,0.625
+R0076,Gymnasium,Administrative Staff,2025-08-18,2025-08-20,Wednesday,Evening,3.0,71.0,Yes,No-Show,0.0,,2.0,Last Minute,Not Completed,0.0
+R0048,Classroom,Administrative Staff,2025-11-06,2025-11-10,Monday,Afternoon,2.0,16.0,No,Used,16.0,,4.0,Short Lead,Completed,1.0
+R0047,Gymnasium,Faculty,2025-11-22,2025-11-29,Saturday,Evening,2.0,46.0,No,Used,41.0,,7.0,Short Lead,Completed,0.891
+R0071,Gymnasium,Faculty,2025-09-25,2025-09-26,Friday,Evening,6.0,105.0,No,Used,62.0,,1.0,Last Minute,Completed,0.59
+R0164,Conference Room,Faculty,2025-09-10,2025-09-18,Thursday,Evening,2.0,23.0,No,Used,14.0,,8.0,Medium Lead,Completed,0.609
+R0080,Computer Lab,Student Organization,2025-08-08,2025-09-21,Sunday,Morning,3.0,17.0,No,Used,11.0,,44.0,Early Booking,Completed,0.647
+R0031,Classroom,Individual Student,2025-10-16,2025-11-17,Monday,Morning,4.0,54.0,No,No-Show,0.0,,32.0,Early Booking,Not Completed,0.0
+R0251,Study Room,Individual Student,2025-08-06,2025-09-19,Friday,Afternoon,2.0,5.0,Yes,Cancelled,,39.0,44.0,Early Booking,Not Completed,
+R0307,Gymnasium,Individual Student,2025-08-30,2025-09-04,Thursday,Afternoon,1.0,69.0,No,No-Show,0.0,,5.0,Short Lead,Not Completed,0.0
+R0191,Classroom,Individual Student,2025-10-19,2025-10-26,Sunday,Unknown,2.0,50.0,No,No-Show,0.0,,7.0,Short Lead,Not Completed,0.0
+R0116,Classroom,Student Organization,2025-10-19,2025-10-21,Tuesday,Afternoon,5.0,34.0,Yes,No-Show,0.0,,2.0,Last Minute,Not Completed,0.0
+R0026,Computer Lab,Student Organization,2025-11-10,2025-11-10,Monday,Afternoon,5.0,19.0,Yes,Used,16.0,,0.0,Last Minute,Completed,0.842
+R0066,Study Room,Individual Student,2025-09-25,2025-10-23,Thursday,Morning,2.0,5.0,Yes,Used,,,28.0,Early Booking,Completed,
+R0215,Classroom,Individual Student,2025-08-29,2025-09-05,Friday,Evening,2.0,45.0,No,Used,41.0,,7.0,Short Lead,Completed,0.911
+R0349,Classroom,Student Organization,2025-08-13,2025-08-27,Wednesday,Evening,1.0,20.0,Yes,Used,21.0,,14.0,Medium Lead,Completed,1.05
+R0167,Study Room,Student Organization,2025-08-28,2025-09-30,Tuesday,Morning,4.0,,Yes,Used,,,33.0,Early Booking,Completed,
+R0350,Conference Room,Faculty,2025-08-03,2025-08-03,Sunday,Afternoon,5.0,7.0,Yes,Used,6.0,,0.0,Last Minute,Completed,0.857
+R0069,Conference Room,Individual Student,2025-10-11,2025-10-16,Thursday,Afternoon,2.0,14.0,Yes,No-Show,0.0,,5.0,Short Lead,Not Completed,0.0
+R0331,Computer Lab,Administrative Staff,2025-09-05,2025-09-17,Wednesday,Afternoon,1.0,22.0,No,Used,21.0,,12.0,Medium Lead,Completed,0.955
+R0078,Study Room,Student Organization,2025-10-19,2025-11-23,Sunday,Afternoon,2.0,3.0,No,Used,2.0,,35.0,Early Booking,Completed,0.667
+R0322,Conference Room,Faculty,2025-09-07,2025-09-07,Sunday,Evening,1.0,13.0,No,Used,13.0,,0.0,Last Minute,Completed,1.0
+R0324,Conference Room,Student Organization,2025-08-30,2025-08-31,Sunday,Afternoon,1.0,12.0,No,Used,8.0,,1.0,Last Minute,Completed,0.667
+R0375,Study Room,Individual Student,2025-08-13,2025-08-15,Friday,Afternoon,2.0,7.0,No,No-Show,0.0,,2.0,Last Minute,Not Completed,0.0
+R0059,Classroom,Student Organization,2025-08-10,2025-08-20,Wednesday,Afternoon,4.0,30.0,No,Cancelled,,6.0,10.0,Medium Lead,Not Completed,
+R0126,Classroom,Faculty,2025-10-29,2025-11-07,Friday,Afternoon,1.0,46.0,Yes,Used,45.0,,9.0,Medium Lead,Completed,0.978
+R0043,Classroom,Individual Student,2025-09-03,2025-09-18,Thursday,Afternoon,3.0,56.0,Yes,Cancelled,,12.0,15.0,Early Booking,Not Completed,
+R0005,Computer Lab,Student Organization,2025-11-25,2025-12-05,Friday,Evening,4.0,32.0,No,Used,29.0,,10.0,Medium Lead,Completed,0.906
+R0122,Study Room,Individual Student,2025-09-19,2025-09-23,Tuesday,Morning,4.0,7.0,Yes,Used,6.0,,4.0,Short Lead,Completed,0.857
+R0298,Classroom,Administrative Staff,2025-11-17,2025-11-28,Friday,Afternoon,5.0,31.0,No,Used,24.0,,11.0,Medium Lead,Completed,0.774
+R0206,Conference Room,Administrative Staff,2025-08-26,2025-08-29,Friday,Afternoon,6.0,15.0,No,Used,9.0,,3.0,Short Lead,Completed,0.6
+R0225,Computer Lab,Student Organization,2025-11-20,2025-12-04,Thursday,Afternoon,5.0,27.0,No,Used,29.0,,14.0,Medium Lead,Completed,1.074
+R0196,Auditorium,Faculty,2025-08-10,2025-09-05,Friday,Afternoon,3.0,295.0,No,Used,219.0,,26.0,Early Booking,Completed,0.742
+R0281,Conference Room,Faculty,2025-09-26,2025-10-10,Friday,Morning,1.0,8.0,Yes,Used,9.0,,14.0,Medium Lead,Completed,1.125
+R0110,Computer Lab,Individual Student,2025-10-31,2025-11-06,Thursday,Morning,4.0,24.0,No,Used,21.0,,6.0,Short Lead,Completed,0.875
+R0119,Classroom,Administrative Staff,2025-08-27,2025-09-03,Wednesday,Morning,2.0,50.0,No,Used,47.0,,7.0,Short Lead,Completed,0.94
+R0266,Classroom,Administrative Staff,2025-08-25,2025-09-02,Tuesday,Morning,1.0,59.0,No,Used,45.0,,8.0,Medium Lead,Completed,0.763
+R0400,Gymnasium,Individual Student,2025-09-21,2025-09-29,Monday,Afternoon,6.0,94.0,Yes,No-Show,0.0,,8.0,Medium Lead,Not Completed,0.0
+R0007,Study Room,Student Organization,2025-09-29,2025-10-02,Thursday,Afternoon,1.0,,Yes,Used,4.0,,3.0,Short Lead,Completed,
+R0339,Study Room,Individual Student,2025-10-25,2025-10-25,Saturday,Unknown,2.0,5.0,No,Used,5.0,,0.0,Last Minute,Completed,1.0
+R0248,Classroom,Individual Student,2025-10-28,2025-11-01,Saturday,Evening,1.0,57.0,Yes,Used,43.0,,4.0,Short Lead,Completed,0.754
+R0197,Study Room,Faculty,2025-08-30,2025-08-31,Sunday,Afternoon,3.0,7.0,No,Used,6.0,,1.0,Last Minute,Completed,0.857
+R0229,Gymnasium,Administrative Staff,2025-10-27,2025-10-28,Tuesday,Afternoon,2.0,77.0,No,Used,57.0,,1.0,Last Minute,Completed,0.74
+R0261,Study Room,Student Organization,2025-09-15,2025-09-29,Monday,Evening,3.0,4.0,Yes,No-Show,0.0,,14.0,Medium Lead,Not Completed,0.0
+R0192,Auditorium,Student Organization,2025-10-15,2025-10-28,Tuesday,Morning,1.0,124.0,Yes,No-Show,0.0,,13.0,Medium Lead,Not Completed,0.0
+R0415,Computer Lab,Student Organization,2025-08-04,2025-08-04,Monday,Afternoon,2.0,36.0,No,Used,20.0,,0.0,Last Minute,Completed,0.556
+R0244,Auditorium,Student Organization,2025-09-23,2025-09-25,Thursday,Morning,2.0,111.0,No,No-Show,0.0,,2.0,Last Minute,Not Completed,0.0
+R0004,Computer Lab,Individual Student,2025-09-16,2025-09-18,Thursday,Afternoon,2.0,25.0,Yes,No-Show,0.0,,2.0,Last Minute,Not Completed,0.0
+R0205,Conference Room,Administrative Staff,2025-11-26,2025-12-11,Thursday,Morning,1.0,6.0,Yes,Used,6.0,,15.0,Early Booking,Completed,1.0
+R0123,Computer Lab,Administrative Staff,2025-08-02,2025-08-03,Sunday,Morning,1.0,23.0,Yes,Cancelled,,1.0,1.0,Last Minute,Not Completed,
+R0079,Classroom,Student Organization,2025-08-08,2025-08-21,Thursday,Afternoon,1.0,30.0,No,No-Show,0.0,,13.0,Medium Lead,Not Completed,0.0
+R0344,Gymnasium,Faculty,2025-08-19,2025-09-02,Tuesday,Afternoon,5.0,,Yes,Cancelled,,13.0,14.0,Medium Lead,Not Completed,
+R0283,Classroom,Individual Student,2025-09-19,2025-10-11,Saturday,Evening,2.0,,Yes,No-Show,0.0,,22.0,Early Booking,Not Completed,
+R0065,Study Room,Student Organization,2025-10-08,2025-10-10,Friday,Evening,2.0,5.0,Yes,Cancelled,,2.0,2.0,Last Minute,Not Completed,
+R0019,Computer Lab,Faculty,2025-09-03,2025-09-07,Sunday,Morning,2.0,30.0,No,Used,32.0,,4.0,Short Lead,Completed,1.067
+R0333,Computer Lab,Individual Student,2025-11-25,2025-12-10,Wednesday,Afternoon,5.0,32.0,No,Used,29.0,,15.0,Early Booking,Completed,0.906
+R0152,Computer Lab,Individual Student,2025-10-10,2025-11-12,Wednesday,Morning,2.0,25.0,No,No-Show,0.0,,33.0,Early Booking,Not Completed,0.0
+R0044,Conference Room,Faculty,2025-09-28,2025-11-01,Saturday,Afternoon,3.0,13.0,No,Used,11.0,,34.0,Early Booking,Completed,0.846
+R0181,Conference Room,Faculty,2025-11-04,2025-11-07,Friday,Evening,1.0,10.0,Yes,Used,10.0,,3.0,Short Lead,Completed,1.0
+R0306,Computer Lab,Individual Student,2025-08-08,2025-08-16,Saturday,Morning,4.0,27.0,No,Used,17.0,,8.0,Medium Lead,Completed,0.63
+R0318,Auditorium,Administrative Staff,2025-11-28,2025-12-12,Friday,Morning,2.0,209.0,Yes,Used,129.0,,14.0,Medium Lead,Completed,0.617
+R0141,Gymnasium,Individual Student,2025-09-03,2025-09-18,Thursday,Afternoon,4.0,113.0,Yes,No-Show,0.0,,15.0,Early Booking,Not Completed,0.0
+R0352,Conference Room,Administrative Staff,2025-11-02,2025-11-05,Wednesday,Morning,6.0,18.0,No,Used,14.0,,3.0,Short Lead,Completed,0.778
+R0411,Classroom,Individual Student,2025-09-10,2025-09-20,Saturday,Afternoon,1.0,44.0,No,Cancelled,,6.0,10.0,Medium Lead,Not Completed,
+R0208,Classroom,Administrative Staff,2025-09-27,2025-09-29,Monday,Evening,1.0,24.0,Yes,Used,17.0,,2.0,Last Minute,Completed,0.708
+R0346,Auditorium,Faculty,2025-10-15,2025-10-21,Tuesday,Afternoon,1.0,205.0,No,Used,204.0,,6.0,Short Lead,Completed,0.995
+R0416,Classroom,Student Organization,2025-10-08,2025-10-26,Sunday,Evening,2.0,26.0,No,Cancelled,,6.0,18.0,Early Booking,Not Completed,
+R0169,Classroom,Student Organization,2025-09-13,2025-10-04,Saturday,Afternoon,3.0,37.0,Yes,Used,34.0,,21.0,Early Booking,Completed,0.919
+R0358,Auditorium,Faculty,,2025-09-28,Sunday,Evening,3.0,157.0,No,Cancelled,,5.0,,,Not Completed,
+R0046,Auditorium,Student Organization,2025-11-10,2025-11-16,Sunday,Evening,2.0,175.0,No,No-Show,0.0,,6.0,Short Lead,Not Completed,0.0
+R0367,Study Room,Individual Student,2025-10-04,2025-10-05,Sunday,Morning,1.0,2.0,Yes,Used,,,1.0,Last Minute,Completed,
+R0144,Computer Lab,Administrative Staff,2025-09-16,2025-09-18,Thursday,Afternoon,4.0,38.0,No,Used,41.0,,2.0,Last Minute,Completed,1.079
+R0252,Classroom,Individual Student,2025-10-20,2025-10-27,Monday,Morning,2.0,35.0,No,Cancelled,,3.0,7.0,Short Lead,Not Completed,
+R0239,Computer Lab,Individual Student,2025-11-16,2025-11-17,Monday,Afternoon,1.0,24.0,No,Used,24.0,,1.0,Last Minute,Completed,1.0
+R0042,Computer Lab,Faculty,2025-11-02,2025-11-16,Sunday,Morning,2.0,19.0,No,Used,18.0,,14.0,Medium Lead,Completed,0.947
+R0241,Conference Room,Faculty,2025-08-30,2025-09-28,Sunday,Afternoon,6.0,18.0,No,Cancelled,,19.0,29.0,Early Booking,Not Completed,
+R0022,Computer Lab,Faculty,2025-09-24,2025-10-06,Monday,Afternoon,1.0,23.0,No,Used,22.0,,12.0,Medium Lead,Completed,0.957
+R0287,Conference Room,Faculty,2025-10-27,2025-10-31,Friday,Afternoon,4.0,9.0,Yes,No-Show,0.0,,4.0,Short Lead,Not Completed,0.0
+R0109,Gymnasium,Student Organization,2025-10-30,2025-11-16,Sunday,Afternoon,2.0,57.0,Yes,Used,59.0,,17.0,Early Booking,Completed,1.035
+R0178,Classroom,Faculty,2025-11-01,2025-11-01,Saturday,Morning,3.0,23.0,Yes,Used,23.0,,0.0,Last Minute,Completed,1.0
+R0058,Computer Lab,Individual Student,2025-09-14,2025-09-26,Friday,Morning,1.0,29.0,Yes,Cancelled,,1.0,12.0,Medium Lead,Not Completed,
+R0328,Auditorium,Student Organization,2025-08-27,2025-10-08,Wednesday,Morning,4.0,87.0,No,Cancelled,,25.0,42.0,Early Booking,Not Completed,
+R0204,Conference Room,Faculty,2025-11-17,2025-11-29,Saturday,Afternoon,3.0,11.0,Yes,Used,6.0,,12.0,Medium Lead,Completed,0.545
+R0305,Classroom,Administrative Staff,2025-09-18,2025-09-29,Monday,Morning,2.0,,No,Used,,,11.0,Medium Lead,Completed,
+R0345,Conference Room,Individual Student,2025-10-15,2025-10-25,Saturday,Afternoon,1.0,15.0,No,Used,9.0,,10.0,Medium Lead,Completed,0.6
+R0271,Classroom,Student Organization,2025-11-07,2025-12-13,Saturday,Afternoon,3.0,43.0,Yes,Cancelled,,16.0,36.0,Early Booking,Not Completed,
+R0404,Classroom,Administrative Staff,2025-10-14,2025-10-17,Friday,Morning,2.0,15.0,No,No-Show,0.0,,3.0,Short Lead,Not Completed,0.0
+R0171,Classroom,Faculty,2025-11-13,2025-11-26,Wednesday,Afternoon,4.0,24.0,No,Used,24.0,,13.0,Medium Lead,Completed,1.0
+R0030,Computer Lab,Faculty,2025-09-21,2025-10-05,Sunday,Morning,2.0,33.0,No,Used,32.0,,14.0,Medium Lead,Completed,0.97
+R0163,Classroom,Student Organization,2025-11-21,2025-12-03,Wednesday,Morning,3.0,33.0,No,Used,24.0,,12.0,Medium Lead,Completed,0.727
+R0150,Classroom,Individual Student,2025-08-28,2025-09-06,Saturday,Morning,3.0,36.0,Yes,No-Show,0.0,,9.0,Medium Lead,Not Completed,0.0
+R0329,Study Room,Faculty,2025-08-15,2025-08-15,Friday,Afternoon,2.0,6.0,Yes,Used,3.0,,0.0,Last Minute,Completed,0.5
+R0408,Conference Room,Administrative Staff,2025-08-21,2025-08-22,Friday,Morning,4.0,11.0,Yes,Used,7.0,,1.0,Last Minute,Completed,0.636
+R0200,Computer Lab,Student Organization,2025-08-01,2025-08-07,Thursday,Afternoon,3.0,20.0,Yes,Cancelled,,4.0,6.0,Short Lead,Not Completed,
+R0334,Gymnasium,Student Organization,2025-11-03,2025-11-09,Sunday,Morning,2.0,56.0,Yes,Used,33.0,,6.0,Short Lead,Completed,0.589
+R0095,Gymnasium,Faculty,,2025-08-28,Thursday,Afternoon,6.0,26.0,No,Used,19.0,,,,Completed,0.731
+R0263,Computer Lab,Administrative Staff,2025-08-22,2025-08-28,Thursday,Morning,2.0,17.0,No,No-Show,0.0,,6.0,Short Lead,Not Completed,0.0
+R0389,Gymnasium,Individual Student,2025-08-28,2025-09-05,Friday,Afternoon,5.0,102.0,No,Cancelled,,5.0,8.0,Medium Lead,Not Completed,
+R0222,Auditorium,Faculty,2025-10-20,2025-12-03,Wednesday,Morning,3.0,213.0,Yes,Cancelled,,13.0,44.0,Early Booking,Not Completed,
+R0086,Gymnasium,Student Organization,2025-11-12,2025-11-26,Wednesday,Morning,5.0,96.0,Yes,Used,70.0,,14.0,Medium Lead,Completed,0.729
+R0133,Conference Room,Faculty,2025-10-22,2025-11-06,Thursday,Afternoon,4.0,8.0,No,Used,7.0,,15.0,Early Booking,Completed,0.875
+R0188,Classroom,Student Organization,2025-10-24,2025-10-24,Friday,Evening,3.0,21.0,No,Used,20.0,,0.0,Last Minute,Completed,0.952
+R0321,Conference Room,Individual Student,2025-08-20,2025-08-24,Sunday,Afternoon,4.0,7.0,Yes,Used,6.0,,4.0,Short Lead,Completed,0.857
+R0249,Classroom,Individual Student,2025-09-01,2025-09-02,Tuesday,Afternoon,3.0,16.0,No,Used,10.0,,1.0,Last Minute,Completed,0.625
+R0090,Study Room,Administrative Staff,2025-08-26,2025-09-02,Tuesday,Afternoon,1.0,2.0,No,Used,2.0,,7.0,Short Lead,Completed,1.0
+R0012,Study Room,Student Organization,2025-09-25,2025-10-21,Tuesday,Morning,3.0,5.0,No,No-Show,0.0,,26.0,Early Booking,Not Completed,0.0
+R0035,Computer Lab,Student Organization,2025-10-13,2025-10-22,Wednesday,Evening,4.0,24.0,No,Used,,,9.0,Medium Lead,Completed,
+R0218,Study Room,Administrative Staff,2025-09-08,2025-09-22,Monday,Morning,2.0,4.0,Yes,Used,3.0,,14.0,Medium Lead,Completed,0.75
+R0073,Conference Room,Administrative Staff,2025-10-09,2025-11-04,Tuesday,Afternoon,1.0,12.0,No,Cancelled,,16.0,26.0,Early Booking,Not Completed,
+R0395,Gymnasium,Student Organization,2025-10-11,2025-10-15,Wednesday,Morning,3.0,116.0,No,Used,115.0,,4.0,Short Lead,Completed,0.991
+R0221,Computer Lab,Individual Student,2025-11-28,2026-01-09,Friday,Morning,3.0,27.0,No,Cancelled,,36.0,42.0,Early Booking,Not Completed,
+R0262,Auditorium,Faculty,2025-11-02,2025-11-10,Monday,Afternoon,1.0,286.0,Yes,Used,234.0,,8.0,Medium Lead,Completed,0.818
+R0326,Conference Room,Faculty,2025-09-02,2025-10-08,Wednesday,Afternoon,1.0,17.0,Yes,No-Show,0.0,,36.0,Early Booking,Not Completed,0.0
+R0409,Classroom,Individual Student,2025-11-17,2025-11-22,Saturday,Morning,4.0,50.0,Yes,No-Show,0.0,,5.0,Short Lead,Not Completed,0.0
+R0013,Gymnasium,Student Organization,2025-08-11,2025-08-18,Monday,Morning,6.0,46.0,No,Used,26.0,,7.0,Short Lead,Completed,0.565
+R0199,Computer Lab,Student Organization,2025-10-11,2025-10-21,Tuesday,Morning,1.0,31.0,Yes,Used,29.0,,10.0,Medium Lead,Completed,0.935
+R0214,Computer Lab,Faculty,2025-10-24,2025-10-20,Monday,Afternoon,5.0,29.0,No,Used,28.0,,,,Completed,0.966
+R0394,Computer Lab,Student Organization,2025-09-27,2025-10-23,Thursday,Afternoon,2.0,21.0,Yes,Used,20.0,,26.0,Early Booking,Completed,0.952
+R0235,Auditorium,Individual Student,2025-08-12,2025-08-17,Sunday,Afternoon,2.0,297.0,No,No-Show,0.0,,5.0,Short Lead,Not Completed,0.0
+R0368,Classroom,Individual Student,2025-11-28,2025-12-12,Friday,Morning,2.0,18.0,Yes,Used,18.0,,14.0,Medium Lead,Completed,1.0
+R0300,Conference Room,Student Organization,2025-10-16,2025-10-20,Monday,Afternoon,4.0,6.0,No,Used,6.0,,4.0,Short Lead,Completed,1.0
+R0340,Study Room,Administrative Staff,2025-11-09,2025-11-16,Sunday,Afternoon,2.0,5.0,No,No-Show,0.0,,7.0,Short Lead,Not Completed,0.0
+R0097,Auditorium,Faculty,2025-09-22,2025-09-28,Sunday,Morning,5.0,263.0,No,Used,175.0,,6.0,Short Lead,Completed,0.665
+R0273,Study Room,Administrative Staff,2025-10-14,2025-10-18,Saturday,Afternoon,3.0,6.0,Yes,Used,5.0,,4.0,Short Lead,Completed,0.833
+R0064,Classroom,Faculty,2025-10-10,2025-10-14,Tuesday,Evening,3.0,33.0,No,Used,25.0,,4.0,Short Lead,Completed,0.758
+R0223,Gymnasium,Student Organization,2025-10-30,2025-11-07,Friday,Afternoon,4.0,80.0,No,Cancelled,,7.0,8.0,Medium Lead,Not Completed,
+R0096,Gymnasium,Individual Student,2025-09-12,2025-09-20,Saturday,Afternoon,,24.0,No,Cancelled,,8.0,8.0,Medium Lead,Not Completed,
+R0014,Conference Room,Individual Student,2025-11-24,2025-12-01,Monday,Morning,1.0,21.0,Yes,Used,21.0,,7.0,Short Lead,Completed,1.0
+R0018,Computer Lab,Student Organization,2025-11-07,2025-11-20,Thursday,Evening,3.0,20.0,No,Cancelled,,3.0,13.0,Medium Lead,Not Completed,
+R0348,Classroom,Individual Student,2025-08-07,2025-08-15,Friday,Afternoon,1.0,32.0,Yes,Used,22.0,,8.0,Medium Lead,Completed,0.688
+R0247,Auditorium,Student Organization,2025-09-19,2025-09-24,Wednesday,Morning,3.0,197.0,No,Used,177.0,,5.0,Short Lead,Completed,0.898
+R0418,Gymnasium,Student Organization,2025-08-22,2025-08-29,Friday,Morning,2.0,24.0,No,Used,15.0,,7.0,Short Lead,Completed,0.625
+R0091,Study Room,Faculty,2025-10-26,2025-11-02,Sunday,Afternoon,6.0,,No,Used,,,7.0,Short Lead,Completed,
+R0311,Classroom,Faculty,2025-08-18,2025-08-24,Sunday,Morning,1.0,24.0,No,Cancelled,,1.0,6.0,Short Lead,Not Completed,
+R0040,Computer Lab,Student Organization,2025-09-25,2025-10-01,Wednesday,Morning,2.0,32.0,No,Used,,,6.0,Short Lead,Completed,
+R0087,Auditorium,Faculty,2025-08-25,2025-08-27,Wednesday,Morning,6.0,191.0,No,Used,184.0,,2.0,Last Minute,Completed,0.963
+R0182,Conference Room,Administrative Staff,2025-08-12,2025-08-31,Sunday,Morning,1.0,15.0,No,No-Show,0.0,,19.0,Early Booking,Not Completed,0.0
+R0295,Conference Room,Student Organization,2025-11-16,2025-12-01,Monday,Afternoon,2.0,24.0,Yes,No-Show,0.0,,15.0,Early Booking,Not Completed,0.0
+R0146,Classroom,Faculty,2025-08-28,2025-10-11,Saturday,Evening,2.0,33.0,Yes,Used,29.0,,44.0,Early Booking,Completed,0.879
+R0159,Classroom,Student Organization,2025-09-18,2025-09-25,Thursday,Morning,5.0,43.0,Yes,Used,28.0,,7.0,Short Lead,Completed,0.651
+R0355,Classroom,Student Organization,2025-10-18,2025-10-20,Monday,Afternoon,5.0,57.0,No,Used,,,2.0,Last Minute,Completed,
+R0414,Gymnasium,Student Organization,2025-09-01,2025-09-09,Tuesday,Morning,6.0,81.0,No,Used,67.0,,8.0,Medium Lead,Completed,0.827
+R0302,Computer Lab,Faculty,2025-09-16,2025-10-08,Wednesday,Morning,6.0,22.0,No,Used,16.0,,22.0,Early Booking,Completed,0.727
+R0201,Conference Room,Administrative Staff,2025-11-27,2025-12-27,Saturday,Morning,6.0,6.0,No,Used,4.0,,30.0,Early Booking,Completed,0.667
+R0072,Computer Lab,Faculty,2025-08-08,2025-08-14,Thursday,Evening,4.0,39.0,Yes,Used,22.0,,6.0,Short Lead,Completed,0.564
+R0369,Study Room,Student Organization,2025-10-02,2025-10-05,Sunday,Afternoon,2.0,4.0,Yes,Used,4.0,,3.0,Short Lead,Completed,1.0
+R0365,Study Room,Student Organization,2025-11-18,2025-11-23,Sunday,Morning,1.0,5.0,No,Used,3.0,,5.0,Short Lead,Completed,0.6
+R0314,Study Room,Student Organization,2025-08-12,2025-09-10,Wednesday,Afternoon,1.0,4.0,No,No-Show,0.0,,29.0,Early Booking,Not Completed,0.0
+R0377,Study Room,Faculty,2025-11-11,2025-11-11,Tuesday,Evening,5.0,2.0,Yes,Used,2.0,,0.0,Last Minute,Completed,1.0
+R0407,Computer Lab,Student Organization,2025-09-20,2025-09-26,Friday,Evening,4.0,19.0,Yes,Cancelled,,5.0,6.0,Short Lead,Not Completed,
+R0134,Study Room,Individual Student,2025-08-26,2025-08-26,Tuesday,Afternoon,1.0,6.0,No,,6.0,,0.0,Last Minute,,1.0
+R0061,Auditorium,Student Organization,2025-08-02,2025-08-10,Sunday,Afternoon,1.0,261.0,Yes,Used,181.0,,8.0,Medium Lead,Completed,0.693
+R0327,Computer Lab,Individual Student,2025-08-18,2025-08-21,Thursday,Evening,4.0,16.0,Yes,Used,15.0,,3.0,Short Lead,Completed,0.938
+R0419,Classroom,Faculty,2025-09-12,2025-09-22,Monday,Morning,2.0,30.0,Yes,Used,18.0,,10.0,Medium Lead,Completed,0.6
+R0101,Conference Room,Administrative Staff,2025-09-21,2025-09-30,Tuesday,Afternoon,3.0,17.0,Yes,Cancelled,,0.0,9.0,Medium Lead,Not Completed,
+R0020,Classroom,Faculty,2025-08-08,2025-08-12,Tuesday,Morning,1.0,23.0,Yes,Used,13.0,,4.0,Short Lead,Completed,0.565
+R0335,Conference Room,Student Organization,2025-10-21,2025-11-04,Tuesday,Afternoon,1.0,8.0,No,Cancelled,,1.0,14.0,Medium Lead,Not Completed,
+R0385,Computer Lab,Student Organization,2025-11-11,2025-11-18,Tuesday,Afternoon,6.0,19.0,No,Used,15.0,,7.0,Short Lead,Completed,0.789
+R0265,Gymnasium,Faculty,2025-09-18,2025-09-26,Friday,Afternoon,3.0,41.0,No,Used,33.0,,8.0,Medium Lead,Completed,0.805
+R0277,Classroom,Administrative Staff,2025-08-24,2025-08-26,Tuesday,Morning,1.0,18.0,No,Used,15.0,,2.0,Last Minute,Completed,0.833
+R0009,Gymnasium,Individual Student,2025-10-19,2025-11-20,Thursday,Morning,4.0,40.0,Yes,No-Show,0.0,,32.0,Early Booking,Not Completed,0.0
+R0310,Classroom,Faculty,2025-11-24,2025-12-06,Saturday,Afternoon,5.0,20.0,No,Used,13.0,,12.0,Medium Lead,Completed,0.65
+R0284,Conference Room,Faculty,2025-10-24,2025-10-26,Sunday,Morning,4.0,11.0,Yes,No-Show,0.0,,2.0,Last Minute,Not Completed,0.0
+R0093,Study Room,Individual Student,2025-08-27,2025-09-01,Monday,Morning,2.0,4.0,No,Cancelled,,4.0,5.0,Short Lead,Not Completed,
+R0253,Classroom,Administrative Staff,2025-10-20,2025-10-23,Thursday,Afternoon,4.0,53.0,Yes,Used,47.0,,3.0,Short Lead,Completed,0.887
+R0033,Conference Room,Student Organization,2025-09-01,2025-09-10,Wednesday,Morning,1.0,17.0,No,Cancelled,,8.0,9.0,Medium Lead,Not Completed,
+R0136,Gymnasium,Individual Student,2025-09-29,2025-10-06,Monday,Afternoon,1.0,85.0,Yes,Used,57.0,,7.0,Short Lead,Completed,0.671
+R0023,Gymnasium,Individual Student,2025-10-02,2025-10-02,Thursday,Evening,3.0,,No,Used,67.0,,0.0,Last Minute,Completed,
+R0063,Auditorium,Student Organization,2025-10-24,2025-10-29,Wednesday,Morning,4.0,107.0,No,Used,71.0,,5.0,Short Lead,Completed,0.664
+R0216,Computer Lab,Individual Student,2025-08-04,2025-08-07,Thursday,Afternoon,3.0,33.0,Yes,Cancelled,,3.0,3.0,Short Lead,Not Completed,
+R0360,Auditorium,Individual Student,2025-11-28,2025-11-28,Friday,Morning,4.0,169.0,No,Used,179.0,,0.0,Last Minute,Completed,1.059
+R0370,Classroom,Faculty,2025-08-23,2025-09-04,Thursday,Evening,1.0,58.0,Yes,Used,37.0,,12.0,Medium Lead,Completed,0.638
+R0258,Study Room,Faculty,2025-09-07,2025-09-09,Tuesday,Morning,6.0,3.0,Yes,Used,2.0,,2.0,Last Minute,Completed,0.667
+R0053,Computer Lab,Student Organization,2025-11-21,2025-11-25,Tuesday,Afternoon,2.0,17.0,No,Used,18.0,,4.0,Short Lead,Completed,1.059
+R0410,Conference Room,Student Organization,,2025-11-17,Monday,Morning,1.0,8.0,No,Used,7.0,,,,Completed,0.875
+R0174,Study Room,Student Organization,2025-08-25,2025-09-23,Tuesday,Afternoon,3.0,2.0,Yes,Cancelled,,3.0,29.0,Early Booking,Not Completed,
+R0036,Study Room,Student Organization,2025-11-24,2025-11-28,Friday,Afternoon,2.0,5.0,No,Used,5.0,,4.0,Short Lead,Completed,1.0
+R0179,Conference Room,Individual Student,2025-10-17,2025-10-31,Friday,Morning,2.0,12.0,No,Cancelled,,12.0,14.0,Medium Lead,Not Completed,
+R0168,Classroom,Individual Student,2025-10-24,2025-10-25,Saturday,Afternoon,1.0,20.0,No,No-Show,0.0,,1.0,Last Minute,Not Completed,0.0
+R0227,Gymnasium,Individual Student,2025-11-19,2025-11-24,Monday,Morning,1.0,98.0,No,Cancelled,,0.0,5.0,Short Lead,Not Completed,
+R0121,Gymnasium,Faculty,2025-09-27,2025-10-06,Monday,Morning,2.0,28.0,No,Used,28.0,,9.0,Medium Lead,Completed,1.0
+R0276,Gymnasium,Individual Student,2025-11-14,2025-11-20,Thursday,Morning,4.0,119.0,Yes,Used,118.0,,6.0,Short Lead,Completed,0.992
+R0045,Classroom,Student Organization,2025-09-29,2025-09-30,Tuesday,Afternoon,2.0,,Yes,Used,31.0,,1.0,Last Minute,Completed,
+R0301,Conference Room,Individual Student,2025-09-06,2025-09-09,Tuesday,Morning,3.0,16.0,No,Used,17.0,,3.0,Short Lead,Completed,1.062
+R0325,Auditorium,Faculty,2025-09-07,2025-09-07,Sunday,Morning,1.0,196.0,No,Used,109.0,,0.0,Last Minute,Completed,0.556
+R0077,Classroom,Faculty,2025-10-22,2025-10-24,Friday,Morning,2.0,32.0,No,Used,23.0,,2.0,Last Minute,Completed,0.719
+R0209,Study Room,Individual Student,2025-10-16,2025-11-02,Sunday,Afternoon,3.0,3.0,Yes,Cancelled,,10.0,17.0,Early Booking,Not Completed,
+R0213,Classroom,Individual Student,2025-09-07,2025-09-24,Wednesday,Morning,1.0,42.0,No,Used,25.0,,17.0,Early Booking,Completed,0.595
+R0268,Classroom,Faculty,2025-11-23,2025-11-23,Sunday,Afternoon,5.0,46.0,No,Cancelled,,0.0,0.0,Last Minute,Not Completed,
+R0312,Conference Room,Faculty,2025-10-14,2025-10-23,Thursday,Morning,3.0,15.0,No,Cancelled,,1.0,9.0,Medium Lead,Not Completed,
+R0217,Computer Lab,Administrative Staff,2025-09-22,2025-10-01,Wednesday,Afternoon,3.0,39.0,Yes,Cancelled,,8.0,9.0,Medium Lead,Not Completed,
+R0401,Classroom,Student Organization,2025-11-26,2025-12-29,Monday,Morning,2.0,42.0,No,Cancelled,,0.0,33.0,Early Booking,Not Completed,
+R0010,Computer Lab,Individual Student,2025-10-11,2025-10-11,Saturday,Afternoon,6.0,20.0,No,Used,17.0,,0.0,Last Minute,Completed,0.85
+R0354,Computer Lab,Faculty,2025-09-06,2025-09-07,Sunday,Morning,6.0,27.0,Yes,Used,23.0,,1.0,Last Minute,Completed,0.852
+R0371,Computer Lab,Student Organization,2025-09-27,2025-10-29,Wednesday,Morning,1.0,36.0,No,Cancelled,,24.0,32.0,Early Booking,Not Completed,
+R0286,Study Room,Student Organization,2025-09-13,2025-09-15,Monday,Evening,2.0,,Yes,Cancelled,,2.0,2.0,Last Minute,Not Completed,
+R0296,Auditorium,Faculty,2025-10-30,2025-10-30,Thursday,Afternoon,3.0,,No,Cancelled,,0.0,0.0,Last Minute,Not Completed,
+R0105,Conference Room,Faculty,2025-09-05,2025-09-05,Friday,Evening,2.0,,No,Used,,,0.0,Last Minute,Completed,
+R0313,Auditorium,Faculty,2025-10-03,2025-10-11,Saturday,Afternoon,2.0,177.0,No,Used,125.0,,8.0,Medium Lead,Completed,0.706
+R0379,Classroom,Student Organization,2025-08-31,2025-09-21,Sunday,Afternoon,3.0,27.0,Yes,Used,15.0,,21.0,Early Booking,Completed,0.556
+R0092,Classroom,Faculty,2025-08-27,2025-09-10,Wednesday,Evening,2.0,40.0,Yes,Cancelled,,13.0,14.0,Medium Lead,Not Completed,
+R0183,Conference Room,Faculty,2025-08-24,2025-08-27,Wednesday,Afternoon,1.0,12.0,No,Used,11.0,,3.0,Short Lead,Completed,0.917
+R0316,Classroom,Faculty,2025-10-07,2025-10-08,Wednesday,Morning,2.0,35.0,Yes,Used,31.0,,1.0,Last Minute,Completed,0.886
+R0420,Gymnasium,Faculty,2025-09-06,2025-09-15,Monday,Afternoon,2.0,101.0,No,,100.0,,9.0,Medium Lead,,0.99
+R0173,Gymnasium,Individual Student,2025-08-20,2025-08-26,Tuesday,Afternoon,4.0,74.0,No,No-Show,0.0,,6.0,Short Lead,Not Completed,0.0
+R0233,Study Room,Faculty,2025-10-25,2025-10-25,Saturday,Afternoon,4.0,4.0,Yes,Used,3.0,,0.0,Last Minute,Completed,0.75
+R0412,Study Room,Faculty,2025-09-17,2025-09-17,Wednesday,Afternoon,5.0,6.0,Yes,Used,5.0,,0.0,Last Minute,Completed,0.833
+R0037,Gymnasium,Individual Student,2025-11-16,2025-11-18,Tuesday,Afternoon,3.0,107.0,Yes,Used,67.0,,2.0,Last Minute,Completed,0.626
+R0157,Conference Room,Faculty,2025-09-09,2025-10-03,Friday,Afternoon,3.0,13.0,No,Cancelled,,18.0,24.0,Early Booking,Not Completed,
+R0003,Auditorium,Faculty,2025-09-13,2025-09-14,Sunday,Afternoon,4.0,252.0,No,Used,188.0,,1.0,Last Minute,Completed,0.746
+R0243,Study Room,Faculty,2025-09-26,2025-10-09,Thursday,Morning,3.0,6.0,No,Used,5.0,,13.0,Medium Lead,Completed,0.833
+R0309,Auditorium,Faculty,2025-10-18,2025-10-24,Friday,Morning,4.0,89.0,No,Used,67.0,,6.0,Short Lead,Completed,0.753
+R0290,Conference Room,Faculty,2025-11-05,2025-11-10,Monday,Morning,2.0,6.0,No,,6.0,,5.0,Short Lead,,1.0
+R0049,Conference Room,Student Organization,2025-09-06,2025-09-18,Thursday,Afternoon,4.0,12.0,No,Used,13.0,,12.0,Medium Lead,Completed,1.083
+R0142,Computer Lab,Faculty,2025-09-07,2025-09-21,Sunday,Afternoon,2.0,17.0,Yes,Used,14.0,,14.0,Medium Lead,Completed,0.824
+R0224,Auditorium,Student Organization,2025-10-14,2025-11-21,Friday,Afternoon,1.0,171.0,Yes,Cancelled,,18.0,38.0,Early Booking,Not Completed,
+R0353,Classroom,Faculty,2025-10-10,2025-10-21,Tuesday,Morning,2.0,25.0,No,Used,25.0,,11.0,Medium Lead,Completed,1.0
+R0184,Study Room,Faculty,2025-10-16,2025-10-25,Saturday,Evening,1.0,3.0,Yes,No-Show,0.0,,9.0,Medium Lead,Not Completed,0.0
+R0332,Study Room,Student Organization,2025-09-06,2025-09-20,Saturday,Afternoon,1.0,6.0,No,No-Show,0.0,,14.0,Medium Lead,Not Completed,0.0
+R0387,Classroom,Administrative Staff,2025-08-30,2025-09-12,Friday,Afternoon,2.0,45.0,No,No-Show,0.0,,13.0,Medium Lead,Not Completed,0.0
+R0161,Gymnasium,Administrative Staff,2025-09-27,2025-10-24,Friday,Morning,1.0,93.0,No,Cancelled,,13.0,27.0,Early Booking,Not Completed,
+R0337,Conference Room,Administrative Staff,2025-10-12,2025-11-20,Thursday,Morning,5.0,10.0,Yes,Used,10.0,,39.0,Early Booking,Completed,1.0
+R0220,Classroom,Student Organization,2025-09-05,2025-09-09,Tuesday,Morning,4.0,25.0,No,Used,23.0,,4.0,Short Lead,Completed,0.92
+R0100,Gymnasium,Student Organization,2025-09-09,2025-09-13,Saturday,Afternoon,1.0,84.0,No,Used,88.0,,4.0,Short Lead,Completed,1.048
+R0236,Computer Lab,Student Organization,2025-09-10,2025-09-12,Friday,Afternoon,5.0,29.0,No,Used,17.0,,2.0,Last Minute,Completed,0.586
+R0118,Gymnasium,Student Organization,2025-11-14,2025-12-21,Sunday,Afternoon,4.0,32.0,No,Cancelled,,16.0,37.0,Early Booking,Not Completed,
+R0342,Study Room,Individual Student,2025-09-22,2025-09-30,Tuesday,Morning,2.0,6.0,Yes,Used,6.0,,8.0,Medium Lead,Completed,1.0
+R0002,Gymnasium,Faculty,2025-10-10,2025-10-17,Friday,Afternoon,1.0,101.0,Yes,Used,61.0,,7.0,Short Lead,Completed,0.604
+R0114,Classroom,Individual Student,2025-09-07,2025-09-16,Tuesday,Evening,6.0,32.0,Yes,No-Show,0.0,,9.0,Medium Lead,Not Completed,0.0
+R0402,Classroom,Administrative Staff,2025-08-02,2025-09-03,Wednesday,Morning,2.0,34.0,Yes,Used,34.0,,32.0,Early Booking,Completed,1.0
+R0175,Study Room,Student Organization,2025-08-22,2025-08-27,Wednesday,Morning,4.0,2.0,No,Cancelled,,4.0,5.0,Short Lead,Not Completed,
+R0254,Study Room,Faculty,2025-10-26,2025-10-30,Thursday,Afternoon,3.0,4.0,No,Used,2.0,,4.0,Short Lead,Completed,0.5
+R0185,Computer Lab,Individual Student,2025-11-05,2025-11-09,Sunday,Afternoon,5.0,33.0,No,Used,25.0,,4.0,Short Lead,Completed,0.758
+R0166,Classroom,Faculty,2025-09-03,2025-09-04,Thursday,Afternoon,1.0,53.0,No,Used,,,1.0,Last Minute,Completed,
+R0373,Conference Room,Faculty,2025-08-13,2025-08-21,Thursday,Morning,4.0,24.0,No,Used,20.0,,8.0,Medium Lead,Completed,0.833
+R0275,Computer Lab,Administrative Staff,2025-10-23,2025-11-03,Monday,Afternoon,3.0,26.0,No,Used,22.0,,11.0,Medium Lead,Completed,0.846
+R0193,Auditorium,Individual Student,2025-08-06,2025-08-06,Wednesday,Morning,1.0,231.0,No,Used,184.0,,0.0,Last Minute,Completed,0.797
+R0001,Classroom,Student Organization,2025-11-02,2025-11-13,Thursday,Afternoon,3.0,53.0,Yes,Used,32.0,,11.0,Medium Lead,Completed,0.604
+R0055,Auditorium,Student Organization,2025-10-16,2025-10-30,Thursday,Morning,2.0,230.0,Yes,No-Show,0.0,,14.0,Medium Lead,Not Completed,0.0
+R0376,Classroom,Administrative Staff,2025-11-27,2025-12-02,Tuesday,Afternoon,2.0,37.0,No,Used,39.0,,5.0,Short Lead,Completed,1.054
+R0029,Computer Lab,Faculty,2025-10-13,2025-10-14,Tuesday,Afternoon,2.0,36.0,Yes,Used,24.0,,1.0,Last Minute,Completed,0.667
+R0207,Classroom,Student Organization,2025-09-21,2025-10-04,Saturday,Morning,2.0,16.0,No,Used,17.0,,13.0,Medium Lead,Completed,1.062
+R0384,Classroom,Faculty,2025-11-15,2025-11-21,Friday,Evening,1.0,48.0,No,Used,34.0,,6.0,Short Lead,Completed,0.708
+R0050,Auditorium,Faculty,2025-08-03,2025-08-16,Saturday,Afternoon,3.0,279.0,Yes,Cancelled,,5.0,13.0,Medium Lead,Not Completed,
+R0351,Classroom,Individual Student,2025-09-29,2025-10-02,Thursday,Unknown,6.0,54.0,Yes,Cancelled,,3.0,3.0,Short Lead,Not Completed,
+R0021,Auditorium,Administrative Staff,2025-08-21,2025-09-03,Wednesday,Evening,2.0,107.0,No,Cancelled,,5.0,13.0,Medium Lead,Not Completed,
+R0294,Computer Lab,Individual Student,2025-09-02,2025-09-25,Thursday,Unknown,1.0,,No,Used,27.0,,23.0,Early Booking,Completed,
+R0177,Conference Room,Administrative Staff,2025-08-04,2025-08-16,Saturday,Morning,6.0,17.0,Yes,No-Show,0.0,,12.0,Medium Lead,Not Completed,0.0
+R0336,Computer Lab,Student Organization,2025-10-03,2025-10-05,Sunday,Morning,5.0,15.0,No,Used,14.0,,2.0,Last Minute,Completed,0.933
+R0380,Gymnasium,Student Organization,2025-08-30,2025-09-05,Friday,Morning,4.0,92.0,Yes,Used,63.0,,6.0,Short Lead,Completed,0.685
+R0034,Gymnasium,Administrative Staff,2025-08-11,2025-08-11,Monday,Afternoon,2.0,112.0,Yes,,112.0,,0.0,Last Minute,,1.0
+R0172,Computer Lab,Faculty,2025-08-07,2025-08-12,Tuesday,Morning,1.0,35.0,Yes,Used,20.0,,5.0,Short Lead,Completed,0.571
+R0008,Classroom,Student Organization,2025-08-20,2025-08-25,Monday,Afternoon,2.0,27.0,Yes,Used,15.0,,5.0,Short Lead,Completed,0.556
+R0319,Classroom,Individual Student,2025-08-02,2025-08-04,Monday,Morning,2.0,58.0,No,No-Show,0.0,,2.0,Last Minute,Not Completed,0.0
+R0107,Gymnasium,Individual Student,2025-08-15,2025-08-22,Friday,Afternoon,3.0,87.0,No,No-Show,0.0,,7.0,Short Lead,Not Completed,0.0
+R0098,Study Room,Faculty,2025-08-09,2025-08-23,Saturday,Evening,1.0,4.0,No,Used,2.0,,14.0,Medium Lead,Completed,0.5
+R0111,Gymnasium,Administrative Staff,2025-08-12,2025-08-19,Tuesday,Afternoon,3.0,61.0,No,No-Show,0.0,,7.0,Short Lead,Not Completed,0.0
+R0361,Gymnasium,Faculty,2025-09-08,2025-09-12,Friday,Morning,3.0,47.0,No,Used,29.0,,4.0,Short Lead,Completed,0.617
+R0070,Computer Lab,Student Organization,2025-11-06,2025-12-09,Tuesday,Afternoon,4.0,29.0,No,Used,19.0,,33.0,Early Booking,Completed,0.655
+R0347,Auditorium,Student Organization,2025-09-26,2025-10-27,Monday,Afternoon,1.0,227.0,No,Used,195.0,,31.0,Early Booking,Completed,0.859
+R0130,Gymnasium,Individual Student,2025-10-07,2025-10-14,Tuesday,Morning,4.0,26.0,No,Used,28.0,,7.0,Short Lead,Completed,1.077
+R0317,Computer Lab,Student Organization,2025-08-30,2025-09-06,Saturday,Afternoon,3.0,19.0,No,Cancelled,,2.0,7.0,Short Lead,Not Completed,
+R0259,Study Room,Student Organization,2025-09-01,2025-09-20,Saturday,Afternoon,4.0,6.0,No,Cancelled,,2.0,19.0,Early Booking,Not Completed,
+R0323,Computer Lab,Administrative Staff,2025-09-24,2025-09-24,Wednesday,Afternoon,3.0,30.0,No,No-Show,0.0,,0.0,Last Minute,Not Completed,0.0
+R0151,Study Room,Administrative Staff,2025-10-17,2025-10-22,Wednesday,Afternoon,4.0,7.0,Yes,No-Show,0.0,,5.0,Short Lead,Not Completed,0.0
+R0338,Auditorium,Individual Student,2025-08-27,2025-09-09,Tuesday,Afternoon,2.0,234.0,Yes,Used,195.0,,13.0,Medium Lead,Completed,0.833
+R0027,Classroom,Administrative Staff,2025-09-19,2025-10-17,Friday,Afternoon,2.0,59.0,No,Used,52.0,,28.0,Early Booking,Completed,0.881
+R0399,Gymnasium,Student Organization,2025-09-18,2025-09-22,Monday,Morning,3.0,76.0,No,Used,69.0,,4.0,Short Lead,Completed,0.908
+R0094,Conference Room,Student Organization,2025-09-04,2025-09-30,Tuesday,Evening,5.0,15.0,No,Cancelled,,14.0,26.0,Early Booking,Not Completed,
+R0149,Classroom,Administrative Staff,2025-09-29,2025-11-05,Wednesday,Morning,2.0,24.0,Yes,Used,24.0,,37.0,Early Booking,Completed,1.0
+R0120,Auditorium,Faculty,2025-11-20,2025-11-27,Thursday,Evening,4.0,174.0,Yes,Used,188.0,,7.0,Short Lead,Completed,1.08
+R0406,Gymnasium,Faculty,2025-11-11,2025-12-18,Thursday,Evening,2.0,80.0,Yes,Used,87.0,,37.0,Early Booking,Completed,1.088
+R0139,Computer Lab,Faculty,2025-08-13,2025-08-16,Saturday,Afternoon,4.0,24.0,Yes,Used,18.0,,3.0,Short Lead,Completed,0.75
+R0170,Auditorium,Faculty,2025-09-26,2025-09-28,Sunday,Morning,6.0,,No,Used,156.0,,2.0,Last Minute,Completed,
+R0364,Conference Room,Faculty,2025-11-27,2025-12-05,Friday,Afternoon,2.0,15.0,Yes,Used,12.0,,8.0,Medium Lead,Completed,0.8
+R0203,Classroom,Individual Student,2025-08-02,2025-08-12,Tuesday,Afternoon,4.0,52.0,No,No-Show,0.0,,10.0,Medium Lead,Not Completed,0.0
+R0148,Computer Lab,Administrative Staff,2025-10-26,2025-11-30,Sunday,Morning,3.0,38.0,No,Used,34.0,,35.0,Early Booking,Completed,0.895
+R0278,Classroom,Faculty,2025-08-09,2025-08-14,Thursday,Evening,1.0,32.0,Yes,Used,26.0,,5.0,Short Lead,Completed,0.812
+R0257,Computer Lab,Faculty,2025-09-07,2025-10-10,Friday,Afternoon,1.0,36.0,No,Used,28.0,,33.0,Early Booking,Completed,0.778
+R0132,Conference Room,Student Organization,2025-09-03,2025-10-05,Sunday,Afternoon,2.0,21.0,No,Cancelled,,6.0,32.0,Early Booking,Not Completed,
+R0250,Classroom,Student Organization,2025-11-13,2025-11-24,Monday,Afternoon,1.0,31.0,No,Used,23.0,,11.0,Medium Lead,Completed,0.742
+R0153,Gymnasium,Faculty,2025-09-18,2025-10-27,Monday,Afternoon,2.0,104.0,Yes,No-Show,0.0,,39.0,Early Booking,Not Completed,0.0
+R0363,Conference Room,Individual Student,2025-11-16,2025-12-15,Monday,Afternoon,4.0,18.0,Yes,Used,14.0,,29.0,Early Booking,Completed,0.778
